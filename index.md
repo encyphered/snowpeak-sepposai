@@ -1708,7 +1708,9 @@ toc_label: "Contents"
 - Weight: 342g
 - Color: Khaki
 
-### Rainbow Stove 2017 Edition (KH-001NK-KR)
+### Rainbow Stove 2017 Edition (KH-001NK)
+
+![Rainbow Stove 2017 Edition](assets/images/KH-001NK.png)
 
 - Type: Natural Ventilation Open Kerosene Stove / Natural Convection
 - Ignition Method: Battery Ignition (C-Type Battery x2, sold separately)
