@@ -2231,7 +2231,7 @@ toc_label: "Contents"
 ![HD Tarp Shield Recta L Gray](assets/images/FES-110.png)
 
 - Set Contents:
-  - Tarpaulin Body
+  - Tarp Body
   - Stopper Rope (Y-type 10m x2, 3m x4)
   - Pole Case
   - Stake Case
@@ -2247,7 +2247,7 @@ toc_label: "Contents"
 ![HD Tarp Shield Wing Gray](assets/images/FES-111.png)
 
 - Set Contents:
-  - Tarpaulin Body
+  - Tarp Body
   - Stopper Rope (Y-type 10m x2, 3m x2)
   - Pole Case
   - Stake Case
@@ -2263,7 +2263,7 @@ toc_label: "Contents"
 ![Land Station L Plus](assets/images/FES-112.png)
 
 - Set Contents:
-  - Tarpaulin Body
+  - Body
   - Stopper Y-Type Rope (9m x2, 7m x2)
   - Stopper Rope (x4)
   - Pole Case
@@ -2351,18 +2351,18 @@ toc_label: "Contents"
 
 - 12 pcs / 1 sheet
 
-### Asterisk Stopper Black 12pcs (FES-097)
+### Asterisk Rope Tensioner Black 12pcs (FES-097)
 
-![Asterisk Stopper Black 12pcs](assets/images/FES-097.png)
+![Asterisk Rope Tensioner Black 12pcs](assets/images/FES-097.png)
 
 - Materials: Aluminum (Anodized)
 - Size: 16 x 39 x 7mm / 12 pcs
 - Weight: 2.8g
 - Compatible Rope Diameter: 4mm rope
 
-### Asterisk Stopper Gold 12pcs (FES-096)
+### Asterisk Rope Tensioner Gold 12pcs (FES-096)
 
-![Asterisk Stopper Gold 12pcs](assets/images/FES-096.png)
+![Asterisk Rope Tensioner Gold 12pcs](assets/images/FES-096.png)
 
 - Materials: Aluminum (Anodized)
 - Size: 16 x 39 x 7mm / 12 pcs
@@ -2381,7 +2381,8 @@ toc_label: "Contents"
   - PP Belt
   - Plastic
 - Size: W540 x H160 x D180mm
-- Weight: approx. 900g *No related data available for Japan FES
+- Weight: approx. 900g
+- No related data available for Japan FES
 
 ### Black Multi Container M (FES-077)
 
@@ -2395,7 +2396,8 @@ toc_label: "Contents"
   - PP Belt
   - Plastic
 - Size: W440 x H150 x D160mm
-- Weight: approx. 700g *No related data available for Japan FES
+- Weight: approx. 700g
+- No related data available for Japan FES
 
 ### Black Multi Container S (FES-076)
 
@@ -2409,7 +2411,8 @@ toc_label: "Contents"
   - PP Belt
   - Plastic
 - Size: W340 x H150 x D140mm
-- Weight: approx. 500g *No related data available for Japan FES
+- Weight: approx. 500g
+- No related data available for Japan FES
 
 ### Black Tote Bag M (FES-065)
 
@@ -2421,7 +2424,8 @@ toc_label: "Contents"
   - Nylon Mesh
   - PP Belt
 - Size: W400 x H450 x D220mm
-- Weight: approx. 600g *No related data available for Japan FES
+- Weight: approx. 600g
+- No related data available for Japan FES
 
 ### Black Tote Bag S (FES-064)
 
@@ -2433,7 +2437,8 @@ toc_label: "Contents"
   - Nylon Mesh
   - PP Belt
 - Size: W360 x H380 x D250mm
-- Weight: approx. 600g *No related data available for Japan FES
+- Weight: approx. 600g
+- No related data available for Japan FES
 
 ## 2012 Fall
 
