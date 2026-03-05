@@ -1427,6 +1427,8 @@ toc_label: "Contents"
 
 ### Gear Tenugui (AC-20SU901BK, AC-20SU901RD)
 
+![Gear Tenugui](assets/images/AC-20SU901BK,AC-20SU901RD.png)
+
 * Materials: 100% Cotton
 
 ### Mug Cover Beige L (FES-106)
@@ -1761,6 +1763,8 @@ toc_label: "Contents"
 
 ### Flag Garland Khaki & Ivory (UG-441)
 
+![Flag Garland Khaki & Ivory](assets/images/UG-441.png)
+
 - Materials:
   - 75D Silicone Polyester Ripstop (Khaki)
   - 75D Polyester Taffeta (Ivory)
@@ -1784,6 +1788,8 @@ toc_label: "Contents"
 - Weight: 150g
 
 ### Limited Tarp Flag Khaki (UG-445KH)
+
+![Limited Tarp Flag Khaki](assets/images/UG-445KH.png)
 
 * Materials:
   - Flag: Nylon
@@ -1839,6 +1845,8 @@ toc_label: "Contents"
 
 ### Aluminum Calderon 24 (CS-240)
 
+![Aluminum Calderon 24](assets/images/CS-240.png)
+
 - Materials:
   - Body, Lid: Aluminum Alloy (Anodized)
   - Lid Handle: Phenol Resin
@@ -1849,6 +1857,8 @@ toc_label: "Contents"
 - Weight: Body/1.3kg
 
 ### Limited Tarp Flag (UG-445)
+
+![Limited Tarp Flag](assets/images/UG-445.png)
 
 - Size: 392 x 14 x 308mm
 - Packed Size: ø22 x 308mm
@@ -1948,6 +1958,8 @@ toc_label: "Contents"
 ## 2015 Spring
 
 ### Flag Garland (UG-440)
+
+![Flag Garland](assets/images/UG-440.png)
 
 * Materials: 210D Polyester Oxford, Polypropylene (rope), Aluminum Alloy (hardware)
 * Size: Flag 100 x 150(h)mm, Rope length 2m
@@ -2097,17 +2109,23 @@ toc_label: "Contents"
 
 ### IGT Two-Unit Frame Black (CK-170BK)
 
+![IGT Two-Unit Frame Black](assets/images/CK-170BK.png)
+
 * Size: W596 x D496 x H30mm
 * Weight: 3.4kg
 * Materials: Aluminum
 
 ### IGT Three-Unit Frame Black (CK-149BK)
 
+![IGT Three-Unit Frame Black](assets/images/CK-149BK.png)
+
 * Size: W846 x D496 x H30mm
 * Weight: 4.1kg
 * Materials: Aluminum
 
 ### IGT Four-Unit Frame Black (CK-150BK)
+
+![IGT Four-Unit Frame Black](assets/images/CK-150BK.png)
 
 * Size: W1,096 x D496 x H30mm
 * Weight: 4.8kg
@@ -2155,6 +2173,8 @@ toc_label: "Contents"
 
 ### Mini Hozuki Blue (ES-040BL)
 
+![Mini Hozuki Blue](assets/images/ES-040BL.png)
+
 - Size: Φ62 x 75mm
 - Weight: 57g (excl. battery)
 - Materials:
@@ -2168,6 +2188,8 @@ toc_label: "Contents"
 - Light Color: Warm White
 
 ### Mini Hozuki Green (ES-040GR)
+
+![Mini Hozuki Green](assets/images/ES-040GR.png)
 
 - Size: Φ62 x 75mm
 - Weight: 57g (excl. battery)
@@ -2500,6 +2522,8 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
 
 ### 2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Red (FES-060RD)
 
+![2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Red](assets/images/FES-060RD.png)
+
 - Color: RED
 - Materials: 1,680D Polyester
 - Size: W195 x D200 x H175mm
@@ -2508,6 +2532,8 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
 
 ### 2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Dark Blue (FES-060DB)
 
+![2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Dark Blue](assets/images/FES-060DB.png)
+
 - Color: DARK BLUE
 - Materials: 1,680D Polyester
 - Size: W195 x D200 x H175mm
@@ -2515,6 +2541,8 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
 - Weight: 40g
 
 ### 2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Beige (FES-060BG)
+
+![2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Beige](assets/images/FES-060BG.png)
 
 - Color: BEIGE
 - Materials: 1,680D Polyester
