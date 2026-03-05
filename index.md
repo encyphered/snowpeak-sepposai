@@ -2215,7 +2215,9 @@ toc_label: "Contents"
 - Brightness: 60 lumen
 - Light Color: Warm White
 
-### Cup Marker (CM-001LP/LB/GR/YL/PK)
+### Cup Marker (CM-001LP,LB,GR,YL,PK)
+
+![Cup Marker](assets/images/CM-001LP,LB,GR,YL,PK.png)
 
 * Size: W15 x D40 x H5mm
 * Materials: Silicone Rubber
