@@ -1,20 +1,17 @@
 ---
 layout: single
-title: Snow Peak Festival Products
 toc: true
 toc_sticky: true
 toc_label: "Contents"
 ---
 
-## Snow Peak Festival Products
-
 ## 2025 Fall
 
 ### Cornhole Table (FES-095)
 
-- Size: 500x300x115(h)mm
+- Size: 500 x 300 x 115(h)mm
 - Weight: 2kg
-- Storage Size: 500x150x65(H)mm
+- Storage Size: 500 x 150 x 65(H)mm
 - Contents:
   - Board Part x2
   - Leg Part x2
@@ -28,7 +25,7 @@ toc_label: "Contents"
 
 ### Thermo Tumbler 360 Duo Set (FES-360-2)
 
-- Size: φ84x112mm
+- Size: φ84 x 112mm
 - Weight: 150g (per unit)
 - Contents:
   - Body x2
@@ -40,7 +37,7 @@ toc_label: "Contents"
 
 ### Goro Dutch Incense (FES-370)
 
-- Size: 147x47x36(H)mm
+- Size: 147 x 47 x 36(H)mm
 - Weight: 230g
 - Contents:
   - Incense Box
@@ -62,9 +59,9 @@ toc_label: "Contents"
 
 ### Mini Hozuki Shade Bird (FES-450)
 
-- Size: Φ107x90(h)mm
+- Size: Φ107 x 90(h)mm
 - Weight: 16g
-- Storage Size: Φ107x15(h)mm (main unit only)
+- Storage Size: Φ107 x 15(h)mm (main unit only)
 - Contents: Lantern Shade Body
 - Materials:
   - Paper (water-repellent)
@@ -103,7 +100,7 @@ toc_label: "Contents"
 
 ### Mosquito Coil Pig Mini Red (FES-087-1-RD)
 
-- Size: 95x96x107(h)mm
+- Size: 95 x 96 x 107(h)mm
 - Weight: 75g
 - Materials:
   - Body: Aluminum
@@ -113,7 +110,7 @@ toc_label: "Contents"
 
 ### Mosquito Coil Pig Mini Black (FES-087-1-BK)
 
-- Size: 95x96x107(h)mm
+- Size: 95 x 96 x 107(h)mm
 - Weight: 75g
 - Materials:
   - Body: Aluminum
@@ -126,13 +123,13 @@ toc_label: "Contents"
 ### Stainless 1-Unit Tray Black (FES-085-BK)
 
 - Materials: Stainless Steel (heat-resistant coating)
-- Size: 250x360x15(h)mm
+- Size: 250 x 360 x 15(h)mm
 - Weight: 635g
 
 ### Stainless Lid Tray Half Black (FES-086-BK)
 
 - Materials: Stainless Steel (heat-resistant coating)
-- Size: 1250x360x15(h)mm
+- Size: 1250 x 360 x 15(h)mm
 - Weight: 335g
 
 ### Snow Peak Land Lock Side Tarp Ivory (FES-270-IV)
@@ -140,7 +137,7 @@ toc_label: "Contents"
 - Contents:
   - Tarp Body
   - Inner Roof
-  - Stopper Rope (Y-type 10mx2, 3.5mx5)
+  - Stopper Rope (Y-type 10m x2, 3.5m x5)
   - Carrying Case
   - Inner Roof Case
   - Pole Case
@@ -148,7 +145,7 @@ toc_label: "Contents"
 - Materials:
   - Body: 210D Polyester Oxford, PU Coating, Hydrostatic Head 3,000mm, UV Protection, Teflon Water-Repellent
   - Inner Roof: 68D Polyester Taffeta
-- Packed Size: 80x18x26(h)cm
+- Packed Size: 80 x 18 x 26(h)cm
 - Weight: 3.9kg
 
 ### Titanium Mini Backpacker's Cup 2024 EDITION (FES-381)
@@ -171,13 +168,13 @@ toc_label: "Contents"
   - Cushion Sheet: Polyester, Rayon
 - Size:
 - Kaen Wok / Inner Dimensions:
-  - 297x88(h)mm, bottom thickness 1.0mm
-  - Outer Dimensions: 299x89(h)mm
+  - 297 x 88(h)mm, bottom thickness 1.0mm
+  - Outer Dimensions: 299 x 89(h)mm
   - Full Capacity: 3.8L
   - Recommended Capacity: 1.0L
-  - Kaen Ladle: 105x370mm
-  - Kaen Riveted Joint: 260x255x50(h)mm
-- Packed Size: 33x90(h)cm
+  - Kaen Ladle: 105 x 370mm
+  - Kaen Riveted Joint: 260 x 255 x 50(h)mm
+- Packed Size: 33 x 90(h)cm
 - Weight: 2kg
 
 ## 2024 Spring
@@ -185,15 +182,15 @@ toc_label: "Contents"
 ### Amenity Dome M TC (FES-160)
 
 - Weight: 11kg
-- Packed Size: 74x22x25(h)cm
+- Packed Size: 74 x 22 x 25(h)cm
 - Set Contents:
   - Fly Sheet
   - Inner Tent
   - Cross Frame (x2)
   - Side Frame
   - Vestibule Frame
-  - Duralumin Stake (17cmx18)
-  - Stopper Rope (1.4mx2, 2.5mx2, Y-type 5mx2)
+  - Duralumin Stake (17cm x18)
+  - Stopper Rope (1.4m x2, 2.5m x2, Y-type 5m x2)
   - Repair Pipe
   - Carrying Case
   - Frame Case
@@ -203,18 +200,18 @@ toc_label: "Contents"
   - Floor: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
   - Frame: Duralumin A7001 (Φ12.8mm, Φ12mm, Φ11.8mm)
 - Capacity: 3–5 persons
-- Packed Size: 74x22x25(h)cm
+- Packed Size: 74 x 22 x 25(h)cm
 
 ### Kayad M Panel Cover Set (FES-400)
 
 - Weight: 6.6kg
-- Packed Size: 74x22x25(h)cm
+- Packed Size: 74 x 22 x 25(h)cm
 - Set Contents:
   - Tarp Body
   - Vestibule Panel Cover A
   - Vestibule Panel Cover B
   - Side Panel Cover
-  - Stopper Rope (Y-type 9mx2, 2.5mx4)
+  - Stopper Rope (Y-type 9m x2, 2.5m x4)
   - Carrying Case
   - Panel Cover Case
   - Pole Case
@@ -222,11 +219,11 @@ toc_label: "Contents"
 - Materials:
   - Roof: 150D Polyester Oxford, Light-Blocking Pigment PU Coating, Hydrostatic Head 3,000mm min., Teflon Water-Repellent, UV Protection
   - Wall, Skirt, Panel Cover: 68D Polyester Taffeta, PU Coating, Hydrostatic Head 1,000mm min.
-- Case Size: 78x23x27(h)cm
+- Case Size: 78 x 23 x 27(h)cm
 
 ### Thermo Tumbler 360 Duo Set (FES-360-1)
 
-- Size: ø84x112mm
+- Size: ø84 x 112mm
 - Weight: 150g (per body unit)
 - Set Contents:
   - Body x2
@@ -238,7 +235,7 @@ toc_label: "Contents"
 
 ### Titanium Mini Backpacker's Cup (FES-380)
 
-- Size: ø70x30mm
+- Size: ø70 x 30mm
 - Weight: 17g
 - Set Contents: Body x1
 - Materials: Titanium
@@ -246,9 +243,9 @@ toc_label: "Contents"
 
 ### Luxury Low Beach Chair Dark Green (FES-187)
 
-- Size: 580x650x690(h)mm (seat height 300mm)
+- Size: 580 x 650 x 690(h)mm (seat height 300mm)
 - Weight: 150g (per body unit)
-- Packed Size: 160x180x840(h)mm
+- Packed Size: 160 x 180 x 840(h)mm
 - Set Contents:
   - Body
   - Carrying Case
@@ -260,7 +257,7 @@ toc_label: "Contents"
 
 ### Mini Mosquito Coil Pig Silver (FES-087-1)
 
-- Size: 95x96x107(h)mm
+- Size: 95 x 96 x 107(h)mm
 - Weight: 75g
 - Set Contents: Body
 - Materials:
@@ -272,12 +269,12 @@ toc_label: "Contents"
 ### Amenity Tarp TC Set (FES-851)
 
 - Weight: 9.4kg
-- Packed Size: 80x20x24(h)cm
+- Packed Size: 80 x 20 x 24(h)cm
 - Set Contents:
   - Tarp Body
   - Steel Pole (280cm, 240cm)
-  - Steel Stake (30cmx8)
-  - Stopper Rope (Y-type 10mx2, 3mx2, 2mx2)
+  - Steel Stake (30cm x8)
+  - Stopper Rope (Y-type 10m x2, 3m x2, 2m x2)
   - Connection Tape
   - Carrying Case
   - Pole Case
@@ -288,9 +285,9 @@ toc_label: "Contents"
 
 ### Shelf Container 25 Stacking Lid (FES-045)
 
-- Size: 310x440x209(h)mm
+- Size: 310 x 440 x 209(h)mm
 - Weight: 1.9kg
-- Packed Size: 310x440x23(h)mm
+- Packed Size: 310 x 440 x 23(h)mm
 - Set Contents: Body
 - Materials:
   - Galvalume Steel Sheet
@@ -298,7 +295,7 @@ toc_label: "Contents"
 
 ### Shelf Container 50 Olive (FES-038-OL)
 
-- Size: 625x405x270(h)mm
+- Size: 625 x 405 x 270(h)mm
 - Weight: 5.5kg
 - Set Contents:
   - Body
@@ -307,11 +304,11 @@ toc_label: "Contents"
   - Body: Steel
   - Handle: Laminated Bamboo, Stainless Steel
   - Leg: Polycarbonate
-- Internal Dimensions: 500x370x255(h)mm / 19.7x14.5x10(h)in
+- Internal Dimensions: 500 x 370 x 255(h)mm / 19.7 x 14.5 x 10(h)in
 
 ### Shelf Container 25 Olive (FES-037-OL)
 
-- Size: 520x325x210(h)mm
+- Size: 520 x 325 x 210(h)mm
 - Weight: 3.6kg
 - Set Contents:
   - Body
@@ -320,7 +317,7 @@ toc_label: "Contents"
   - Body: Steel
   - Handle: Laminated Bamboo, Stainless Steel
   - Leg: Polycarbonate
-- Internal Dimensions: 405x290x195(h)mm / 16x11.5x7.7(h)in
+- Internal Dimensions: 405 x 290 x 195(h)mm / 16 x 11.5 x 7.7(h)in
 
 ## 2023 Fall
 
@@ -334,9 +331,9 @@ toc_label: "Contents"
   - Lining: Flannel
   - Fill: 800FP
 - Size:
-  - 75x200cm (mat)
-  - 84x190cm (comforter)
-- Packed Size: Φ22x44(h)cm
+  - 75 x 200cm (mat)
+  - 84 x 190cm (comforter)
+- Packed Size: Φ22 x 44(h)cm
 - Weight: 1.9kg
 - Features:
   - Comfort Temp: 0°C
@@ -350,7 +347,7 @@ toc_label: "Contents"
 - Materials:
   - Outer Fabric, Lining: 68D Polyester
   - Fill: Polyester
-- Size: 78x196cm (packed 60x40x26cm)
+- Size: 78 x 196cm (packed 60 x 40 x 26cm)
 - Weight: 2.6kg
 - Features:
   - Comfort Temp: 5°C
@@ -364,7 +361,7 @@ toc_label: "Contents"
   - Ground Sheet
   - Rain Cover
   - Duralumin V-Stake (x12)
-  - Stopper Rope (3mx2, Y-type 6mx1)
+  - Stopper Rope (3m x2, Y-type 6m x1)
   - Carrying Case
   - Tarp Case
   - Stake Case
@@ -373,7 +370,7 @@ toc_label: "Contents"
   - Vestibule Door Panel: 20D Silicone Polyester Mini Ripstop
   - Inner Wall: 30D Nylon Ripstop, PU Coating, Hydrostatic Head 1,500mm min.
   - Rain Cover: 20D Silicone Polyester Mini Ripstop, PU Coating, Hydrostatic Head 1,500mm min.
-- Packed Size: 25x13x35(h)cm
+- Packed Size: 25 x 13 x 35(h)cm
 - Weight: 1.24kg (excl. rain cover, ground sheet, stakes, rope)
 
 ### Land Lock Pro. Air Shield Roof Set (FES-197)
@@ -386,7 +383,7 @@ toc_label: "Contents"
   - C-Frame (x2)
   - Center Frame
   - Ridge Pole
-  - Stopper Rope (1.5mx2, 2.5mx4, 3.5mx6)
+  - Stopper Rope (1.5m x2, 2.5m x4, 3.5m x6)
   - Carrying Case
   - Frame Case
   - Stake Case
@@ -397,20 +394,20 @@ toc_label: "Contents"
   - Shield Roof: 75D Silicone Polyester Ripstop, Light-Blocking Pigment PU Coating, Hydrostatic Head 1,500mm min.
   - Frame: A6061
   - Inner Room: 20D Polyester Mini Ripstop (wall), 40D Polyester Mini Ripstop, PU Coating, Hydrostatic Head 1,800mm min. (floor)
-- Packed Size: 74x30x35(h)cm
+- Packed Size: 74 x 30 x 35(h)cm
 - Weight: 20.7kg (incl. shield roof)
 
 ### Hexa Connector Tarp Pro. Air 2023 Fall FES (FES-255)
 
 - Contents:
   - Tarp Body
-  - Stopper Rope (Y-type 10mx1, 4mx2, 3mx2)
+  - Stopper Rope (Y-type 10m x1, 4m x2, 3m x2)
   - Frame Connector Stopper Rope x2
   - Carrying Case
   - Pole Case
   - Stake Case
 - Materials: Body: 75D Silicone Polyester Ripstop, Light-Blocking Pigment PU Coating, Hydrostatic Head 1,500mm min.
-- Packed Size: 80x17x23(h)cm
+- Packed Size: 80 x 17 x 23(h)cm
 - Weight: 2kg
 
 ### Mini Flame 2023 EDITION (FES-147)
@@ -421,7 +418,7 @@ toc_label: "Contents"
 - Materials:
   - Body: Aluminum Alloy, Brass, Rubber, Glass, Stainless Steel
   - Carrying Case: Polyethylene
-- Size: 42x40x105(h)mm
+- Size: 42 x 40 x 105(h)mm
 - Weight: 102g
 - Gas Consumption: 7g/h
 
@@ -436,7 +433,7 @@ toc_label: "Contents"
 - Materials:
   - Pot, Lid, Partition Plate, Inner Tray: Stainless Steel
   - Carrying Case: Polyester
-- Body Size: 443x242x112(h)mm
+- Body Size: 443 x 242 x 112(h)mm
 - Weight: 2.6kg (incl. carrying case)
 - Full Capacity: 6.7L
 - Recommended Capacity: 4.6L
@@ -449,7 +446,7 @@ toc_label: "Contents"
 - Materials:
   - Body: Stainless Steel
   - Carrying Case: Polyester
-- Size: assembled 600x645x30(h)mm / packed 645x160x30(h)mm
+- Size: assembled 600 x 645 x 30(h)mm / packed 645 x 160 x 30(h)mm
 - Weight: 1.9kg
 
 ### Living Sheet Hexa Mat Set (FES-198)
@@ -458,8 +455,8 @@ toc_label: "Contents"
   - Living Sheet: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
   - Floor Mat: 68D Polyester Taffeta, PU Coating (outer), PVC (inner), PE 5mm (fill)
   - Carrying Case, Stake Case: Polyester
-- Size: 345x315x13(h)cm
-- Packed Size: 80x63x20(h)cm
+- Size: 345 x 315 x 13(h)cm
+- Packed Size: 80 x 63 x 20(h)cm
 - Weight: 6.6kg
 
 ## 2023 Spring
@@ -473,8 +470,8 @@ toc_label: "Contents"
   - Double Cross Frame (x2)
   - Center Frame (x1)
   - Vestibule Frame (x1)
-  - Duralumin Stake (17cmx16)
-  - Stopper Rope (2-person 4mx2, 2mx4)
+  - Duralumin Stake (17cm x16)
+  - Stopper Rope (2-person 4m x2, 2m x4)
   - Repair Pipe
   - Carrying Case
   - Frame Case
@@ -484,7 +481,7 @@ toc_label: "Contents"
   - Inner Wall: 20D Polyester Mini Ripstop
   - Floor, Ground Sheet: 40D Nylon Ripstop, PU Coating, Hydrostatic Head 1,500mm min.
   - Frame: Duralumin A7001 (Φ11mm)
-- Packed Size: 61x19x23(h)cm
+- Packed Size: 61 x 19 x 23(h)cm
 - Weight: 4.7kg
 - Capacity: 2–3 persons
 
@@ -493,7 +490,7 @@ toc_label: "Contents"
 - Contents:
   - Tarp Body
   - Stopper Rope (Y-type)
-- Packed Size: 170x800x240(h)mm
+- Packed Size: 170 x 800 x 240(h)mm
 - Weight: 1.7kg
 
 ### Shelf Container 50 Black (FES-038-BK)
@@ -509,13 +506,13 @@ toc_label: "Contents"
   - Body: Steel
   - Handle: Laminated Bamboo, Stainless Steel
   - Leg: Polycarbonate
-- Size: 520x325x210(h)mm
-- Packed Size: 520x325x210(h)mm
+- Size: 520 x 325 x 210(h)mm
+- Packed Size: 520 x 325 x 210(h)mm
 - Weight: 3.6kg
 
 ### IGT Single Table Bamboo Light (FES-218)
 
-- Size: 846x496x25(h)mm
+- Size: 846 x 496 x 25(h)mm
 - Weight: 2.9kg
 - Materials:
   - Laminated Bamboo
@@ -533,8 +530,8 @@ toc_label: "Contents"
   - Fabric: 600D Polyester, PVC Processing
   - Pocket: Polyester, Nylon, Polyurethane
   - Carrying Case: 600D Polyester, PVC Processing
-- Size: 2,000x650x320(h)mm
-- Packed Size: 1,250x165x145(h)mm
+- Size: 2,000 x 650 x 320(h)mm
+- Packed Size: 1,250 x 165 x 145(h)mm
 - Weight: 7.3kg
 
 ### Mosquito Coil Pig Red (FES-087-RD)
@@ -547,7 +544,7 @@ toc_label: "Contents"
   - Legs, Ears, Tail Parts: Stainless Steel
   - Clasp Attachment: Stainless Steel
   - Cord: Cotton
-- Size: 137x148x165(h)mm
+- Size: 137 x 148 x 165(h)mm
 - Weight: 150g
 
 ### Mesh Luxury Low Beach Chair (FES-186)
@@ -560,8 +557,8 @@ toc_label: "Contents"
   - Stainless Steel
   - Natural Wood (Teak)
   - Polyester
-- Size: 580x650x690(h)mm (seat height 300mm)
-- Packed Size: 160x180x840(h)mm
+- Size: 580 x 650 x 690(h)mm (seat height 300mm)
+- Packed Size: 160 x 180 x 840(h)mm
 - Weight: 3.7kg
 
 ### Tarp Extension 4 (FES-433)
@@ -571,7 +568,7 @@ toc_label: "Contents"
   - Inner Tent
   - Ground Sheet
   - Sub Pole (x1)
-  - Stopper Rope (Y-type 10mx1, Y-type 5mx1, 2.5mx6)
+  - Stopper Rope (Y-type 10m x1, Y-type 5m x1, 2.5m x6)
   - Carrying Case
   - Duralumin Stake (x18)
   - Stake Case
@@ -580,15 +577,15 @@ toc_label: "Contents"
   - Fly Sheet: 75D Polyester Taffeta, PU Coating, Hydrostatic Head 1,800mm min., Teflon Water-Repellent, UV Protection
   - Inner Tent: 68D Polyester Taffeta (wall), 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min. (floor)
   - Ground Sheet: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
-- Size: 325x400x280(h)cm
-- Packed Size: 23x69x25(h)cm
+- Size: 325 x 400 x 280(h)cm
+- Packed Size: 23 x 69 x 25(h)cm
 
 ## 2022 Fall
 
 ### Jikaro Table Black (FES-011)
 
-- Size: 1,120x1,120x400(h)mm (opening/600x600mm) / 890x890x400(h)mm (opening/370x370mm)
-- Packed Size: 745x170x400mm
+- Size: 1,120 x 1,120 x 400(h)mm (opening/600 x 600mm) / 890 x 890 x 400(h)mm (opening/370 x 370mm)
+- Packed Size: 745 x 170 x 400mm
 - Contents:
   - Body
   - Carrying Case
@@ -600,16 +597,16 @@ toc_label: "Contents"
 
 ### Thermo Tumbler Duo Set 2022 EDITION (FES-470)
 
-- Size: Φ84x150mm
+- Size: Φ84 x 150mm
 - Weight: 215g (per body unit)
-- Packed Size: 130x32x18(h)mm
+- Packed Size: 130 x 32 x 18(h)mm
 - Materials:
   - Body: Stainless Steel (outer Polyester coating)
   - Bottom Cover: Silicone Rubber
 
 ### Mini Flame 2022 EDITION (FES-146)
 
-- Size: 42x40x105(h)mm
+- Size: 42 x 40 x 105(h)mm
 - Weight: 102g
 - Materials:
   - Aluminum Alloy
@@ -634,8 +631,8 @@ toc_label: "Contents"
 
 ### Folding Santoku Knife (FES-220)
 
-- Size: 240x30x18(h)mm
-- Packed Size: 130x32x18(h)mm
+- Size: 240 x 30 x 18(h)mm
+- Packed Size: 130 x 32 x 18(h)mm
 - Weight: 125g
 - Materials: Stainless Steel
 - Notes: Recalled due to manufacturing defect
@@ -646,7 +643,7 @@ toc_label: "Contents"
   - Body: Polycarbonate Resin, ABS Resin
   - Shade: Silicone Rubber
   - Lens Cover: PMMA Resin
-- Size: ø62x75(h)mm
+- Size: ø62 x 75(h)mm
 - Power Source: AAA Alkaline Battery (LR03) x3
 - Continuous Light Time: Hi-60hrs / Low-100hrs
 - Operating Temp: 0–35°C
@@ -662,7 +659,7 @@ toc_label: "Contents"
   - Body: Polycarbonate Resin, ABS Resin
   - Shade: Silicone Rubber
   - Lens Cover: PMMA Resin
-- Size: ø62x75(h)mm
+- Size: ø62 x 75(h)mm
 - Power Source: AAA Alkaline Battery (LR03) x3
 - Continuous Light Time: Hi-60hrs / Low-100hrs
 - Operating Temp: 0–35°C
@@ -681,14 +678,14 @@ toc_label: "Contents"
 
 ### Land Lock M Set Ivory (FES-195)
 
-- Size: W590xD350xH205cm
+- Size: W590 x D350 x H205cm
 - Weight:
   - Body/23kg
   - Inner Mat/3kg
   - Ground Sheet/1kg
 - Packed Size:
-  - Body Case/76x32x36cm
-  - Frame Case/72x17x22cm
+  - Body Case/76 x 32 x 36cm
+  - Frame Case/72 x 17 x 22cm
 - Materials:
   - Body (roof): 150D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min., UV Protection, Teflon Water-Repellent
   - Body (wall): 150D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min., UV Protection, Teflon Water-Repellent
@@ -708,13 +705,13 @@ toc_label: "Contents"
 ### Tarp Extension Tent 4 Ivory (FES-432)
 
 - Weight: 7.5kg
-- Packed Size: 69x23x25cm
+- Packed Size: 69 x 23 x 25cm
 - Contents:
   - Fly Sheet
   - Inner Tent
   - Ground Sheet
   - Sub Pole (x1)
-  - Stopper Rope (Y-type 10mx1, Y-type 5mx1, 2.5mx6)
+  - Stopper Rope (Y-type 10m x1, Y-type 5m x1, 2.5m x6)
   - Carry Bag
   - Duralumin Stake (x18)
   - Stake Case
@@ -727,9 +724,9 @@ toc_label: "Contents"
 
 ### Luxury Low Beach Chair Black (FES-193)
 
-- Size: 58x65x69(h)cm
+- Size: 58 x 65 x 69(h)cm
 - Weight: 3.4kg
-- Packed Size: 160x180x840(h)mm
+- Packed Size: 160 x 180 x 840(h)mm
 - Materials:
   - Aluminum
   - Natural Wood (Teak)
@@ -740,14 +737,14 @@ toc_label: "Contents"
 
 ### Titanium Straw Set Blue & Green (FES-222-1)
 
-- Size: Φ6.4x230mm
+- Size: Φ6.4 x 230mm
 - Weight: 22g (11g each)
 - Contents: Straw Body x2 (Blue & Green)
 - Materials: Titanium
 
 ### Titanium Straw Set Pink & Purple (FES-222-2)
 
-- Size: Φ6.4x230mm
+- Size: Φ6.4 x 230mm
 - Weight: 22g (11g each)
 - Contents: Straw Body x2 (Pink & Purple)
 - Materials: Titanium
@@ -774,7 +771,7 @@ toc_label: "Contents"
 
 ### IGT Bamboo Extension Table Short (FES-217)
 
-- Size: 596x496x25mm
+- Size: 596 x 496 x 25mm
 - Weight: 2.2kg
 - Contents:
   - Body
@@ -787,19 +784,19 @@ toc_label: "Contents"
 
 ### IGT Two-Unit Storage Case (FES-246)
 
-- Size: 680x135x525(h)mm
+- Size: 680 x 135 x 525(h)mm
 - Weight: 750g
 - Materials: Polyester (PVC Processing)
 
 ### Titanium Spork Rainbow (FES-404)
 
-- Size: 40x165mm
+- Size: 40 x 165mm
 - Weight: 16g
 - Materials: Titanium
 
 ### Mini Backpacker's Cup 2022 SPRING EDITION (FES-175)
 
-- Size: Φ70x30mm
+- Size: Φ70 x 30mm
 - Weight: 30g
 - Materials: Stainless Steel
 - Max Capacity: 60ml
@@ -822,7 +819,7 @@ toc_label: "Contents"
 - Specs: Light-Blocking Pigment PU Coating, UV Protection, Teflon Water-Repellent
 - Size: 720 x 1215 x 660(h)mm
 - Weight: 13kg
-- Packed Size: 360x1,215x90mm
+- Packed Size: 360 x 1,215 x 90mm
 - Contents:
   - Body
   - Carrying Bag
@@ -929,8 +926,8 @@ toc_label: "Contents"
   - Frame: Aluminum Alloy, Stainless Steel
   - Leg: Stainless Steel, Resin
 - Size:
-- Frame: 846x496x30(h)mm
-- Leg: Φ25x410mm
+- Frame: 846 x 496 x 30(h)mm
+- Leg: Φ25 x 410mm
 
 ### IGT Four-Unit Low Style Set Black (FES-129)
 
@@ -941,21 +938,21 @@ toc_label: "Contents"
   - Frame: Aluminum Alloy, Stainless Steel
   - Leg: Stainless Steel, Plastic
 - Size:
-- Frame: 1,096x496x30(h)mm
-- Leg: Φ25x410mm
+- Frame: 1,096 x 496 x 30(h)mm
+- Leg: Φ25 x 410mm
 
 ### IGT 400 Leg Set Black (FES-137)
 
 - Materials:
   - Stainless Steel
   - Resin
-- Size: Φ25x410mm
+- Size: Φ25 x 410mm
 
 ### Take Long Chair Long Black (FES-055)
 
 - Weight: 3.5kg
-- Packed Size: 100x150x1,280(h)mm
-- Size: 595x800x950(h)mm (seat height 360mm)
+- Packed Size: 100 x 150 x 1,280(h)mm
+- Size: 595 x 800 x 950(h)mm (seat height 360mm)
 - Contents:
   - Body
   - Strap Belt
@@ -970,7 +967,7 @@ toc_label: "Contents"
   - 1000D Nylon
   - PP Tape
   - Resin Board
-- Size: 540x180x160(h)mm
+- Size: 540 x 180 x 160(h)mm
 - Weight: 1,500g
 
 ### Multi Container M Black (FES-134)
@@ -979,7 +976,7 @@ toc_label: "Contents"
   - 1000D Nylon
   - PP Tape
   - Resin Board
-- Size: 440x160x150(h)mm
+- Size: 440 x 160 x 150(h)mm
 - Weight: 1,200g
 
 ### Multi Container S Black (FES-133)
@@ -988,7 +985,7 @@ toc_label: "Contents"
   - 1000D Nylon
   - PP Tape
   - Resin Board
-- Size: 340x140x150(h)mm
+- Size: 340 x 140 x 150(h)mm
 - Weight: 900g
 
 ### Metal Logo Sticker Set MOUNTAIN (FES-138)
@@ -1008,8 +1005,8 @@ toc_label: "Contents"
   - Tabletop: Laminated Bamboo
   - Stand: Aluminum (Anodized)
   - Case: Polyester
-- Size: 846x496x400(h)mm
-- Packed Size: 846x248x50(h)mm
+- Size: 846 x 496 x 400(h)mm
+- Packed Size: 846 x 248 x 50(h)mm
 
 ### My Table Bamboo Black (FES-132)
 
@@ -1020,8 +1017,8 @@ toc_label: "Contents"
   - Tabletop: Laminated Bamboo
   - Stand: Aluminum (Anodized)
   - Case: Polyester
-- Usage Size: 450x335x385(h)mm
-- Tabletop Size: 450x330x12(h)mm
+- Usage Size: 450 x 335 x 385(h)mm
+- Tabletop Size: 450 x 330 x 12(h)mm
 
 ### Land Station Inner Room (FES-127)
 
@@ -1036,7 +1033,7 @@ toc_label: "Contents"
   - [Body] Mesh: 68D Polyester Mesh
   - [Body] Floor: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
   - [Ground Sheet]: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
-- Packed Size: 20x20x61(h)cm
+- Packed Size: 20 x 20 x 61(h)cm
 - Capacity: 4 persons
 
 ### Land Station Inner Room S (FES-128)
@@ -1052,7 +1049,7 @@ toc_label: "Contents"
   - [Body] Mesh: 68D Polyester Mesh
   - [Body] Floor: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
   - [Ground Sheet]: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
-- Packed Size: 18x13x46(h)cm
+- Packed Size: 18 x 13 x 46(h)cm
 - Capacity: 1 person
 
 ### Mini Backpacker's Cup 2021 SPRING EDITION (FES-168)
@@ -1066,7 +1063,7 @@ toc_label: "Contents"
 
 ### Land Lock Pro. Ivory Black Frame Edition (FES-090)
 
-- Weight: 25.5kg / Packed Size: 75x33x36(h)cm
+- Weight: 25.5kg / Packed Size: 75 x 33 x 36(h)cm
 - Contents:
   - Body
   - Inner Room
@@ -1076,7 +1073,7 @@ toc_label: "Contents"
   - Center Frame
   - Ridge Pole
   - Duralumin Stake (21cm x27)
-  - Stopper Rope (1.5mx2, 2.5mx4, 3.5mx6)
+  - Stopper Rope (1.5m x2, 2.5m x4, 3.5m x6)
   - Seam Grip
   - Stake Case
   - Frame Case
@@ -1110,7 +1107,7 @@ toc_label: "Contents"
 ### Take Chair Black (FES-185)
 
 - Weight: 3kg
-- Packed Size: 100x150x980(h)
+- Packed Size: 100 x 150 x 980(h)
 - Contents:
   - Body
   - Strap
@@ -1121,18 +1118,18 @@ toc_label: "Contents"
 
 ### Garden Low Chair 30 Black (FES-089)
 
-- Size: 580x650x860(h)mm (seat height 300mm)
+- Size: 580 x 650 x 860(h)mm (seat height 300mm)
 - Weight: 3.6kg
-- Packed Size: 160x180x1010(h)
+- Packed Size: 160 x 180 x 1010(h)
 - Contents:
   - Body
   - Carrying Case
 
 ### Garden FD Chair Black (FES-088)
 
-- Size: 595x580x840(h)mm (seat height 460mm)
+- Size: 595 x 580 x 840(h)mm (seat height 460mm)
 - Weight: 3.6kg
-- Packed Size: 580x110x690(h)
+- Packed Size: 580 x 110 x 690(h)
 - Materials:
   - Frame: Metal (Aluminum Alloy)
   - Seat: 1680D Nylon
@@ -1140,7 +1137,7 @@ toc_label: "Contents"
 
 ### Vacuum-Insulated Festival Mug 300 Matte (FES-123)
 
-- Size: φ73.4x90.3(h)mm
+- Size: φ73.4 x 90.3(h)mm
 - Materials: Stainless Steel
 - Weight: 90g
 
@@ -1148,8 +1145,8 @@ toc_label: "Contents"
 
 - Size:
   - Cooler Lid
-  - Insulated Lid attached: φ77x174(h)mm
-  - Tumbler Lid attached: φ81x177(h)mm
+  - Insulated Lid attached: φ77 x 174(h)mm
+  - Tumbler Lid attached: φ81 x 177(h)mm
 - Weight:
   - Bottle Body: 165g
   - Cooler Lid: 90g
@@ -1186,7 +1183,7 @@ toc_label: "Contents"
 
 ### IGT Single Table Bamboo (FES-216)
 
-- Size: 846x496x25mm
+- Size: 846 x 496 x 25mm
 - Weight: 5.0kg
 - Materials:
   - Laminated Bamboo
@@ -1194,7 +1191,7 @@ toc_label: "Contents"
 
 ### IGT Cutting Board W (FES-215)
 
-- Size: 500x360x20(h)mm
+- Size: 500 x 360 x 20(h)mm
 - Weight: 1kg
 - Materials: Paulownia
 
@@ -1217,7 +1214,7 @@ toc_label: "Contents"
 ### Book Cover Black (FES-068)
 
 - Materials: 420D Polyester Oxford Ripstop, PU Coating
-- Size: For applicable books: paperback size (150x152(h) x thickness up to 25mm)
+- Size: For applicable books: paperback size (150 x 152(h) x thickness up to 25mm)
 - Weight: 30g
 
 ### Metal Logo Sticker Classic (FES-069)
@@ -1267,7 +1264,7 @@ toc_label: "Contents"
 
 ### Mini Flame 2019 Edition (GL-140CL)
 
-- Size: 42x40x105(h)mm
+- Size: 42 x 40 x 105(h)mm
 - Weight: 102g
 - Materials:
   - Aluminum Alloy
@@ -1301,7 +1298,7 @@ toc_label: "Contents"
   - Center Frame
   - Ridge Pole
   - Duralumin Stake (21cm x27)
-  - Stopper Rope (1.5mx2, 2.5mx4, 3.5mx6)
+  - Stopper Rope (1.5m x2, 2.5m x4, 3.5m x6)
   - Seam Grip
   - Stake Frame Bag
   - Carrying Bag
@@ -1315,8 +1312,8 @@ toc_label: "Contents"
   - Inner Room (floor): 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min.
   - Roof Sheet: 75D Polyester Taffeta, PU Coating, Hydrostatic Head 1,800mm min., UV Protection, Teflon Water-Repellent
 - Case Size:
-  - Carrying Case: 75x33x36(h)cm
-  - Frame Case: 72x17x22(h)cm
+  - Carrying Case: 75 x 33 x 36(h)cm
+  - Frame Case: 72 x 17 x 22(h)cm
 - Capacity: 6 persons
 
 ### IGT Side Tray (FES-245)
@@ -1364,7 +1361,7 @@ toc_label: "Contents"
   - Duralumin Stake (21cm x22)
   - Triangle Pocket (x2)
   - Compression Belt (x2)
-  - Stopper Rope (3.5mx4, 7mx2, 2mx4)
+  - Stopper Rope (3.5m x4, 7m x2, 2m x4)
   - Seam Sealant
   - Carrying Case
   - Frame Case
@@ -1381,7 +1378,7 @@ toc_label: "Contents"
 - Contents:
   - Tarp Body
   - Inner Roof
-  - Stopper Rope (Y-type 10mx2, 3.5mx5)
+  - Stopper Rope (Y-type 10m x2, 3.5m x5)
   - Carrying Case
   - Inner Roof Case
   - Pole Case
@@ -1389,12 +1386,12 @@ toc_label: "Contents"
 - Materials:
   - Body: 210D Polyester Oxford, PU Coating, Hydrostatic Head 3,000mm, UV Protection, Teflon Water-Repellent
   - Inner Roof: 68D Polyester Taffeta
-- Packed Size: 80x18x26(h)cm
+- Packed Size: 80 x 18 x 26(h)cm
 - Weight: 3.9kg
 
 ### Hozuki Shade 2018 Edition (FES-056)
 
-- Size: approx. ø110x62mm
+- Size: approx. ø110 x 62mm
 - Materials: Mulberry Paper (water-repellent)
 
 ### Rainbow Stove 2018 Edition (KH-001LB)
@@ -1415,15 +1412,15 @@ toc_label: "Contents"
 * Contents: Body, User Guide
 * Features: 2018 limited production. The black globe features an engraved "constellation" pattern.
 * Materials: Aluminum Alloy, Brass, Rubber, Glass, Stainless Steel
-* Size: 42x40x105(h)mm
+* Size: 42 x 40 x 105(h)mm
 * Weight: 102g
-* Packed Size: 51x47x112(h)mm
+* Packed Size: 51 x 47 x 112(h)mm
 
 ## 2018 Spring
 
 ### Gear Container 2018 FES Edition (FES-066)
 
-- Size: 380x280x310mm
+- Size: 380 x 280 x 310mm
 - Weight: 880g
 - Materials:
   - Fabric: 100% Polyester (PVC Processing)
@@ -1434,13 +1431,13 @@ toc_label: "Contents"
 
 ### IGT Cutting Board W (FES-215)
 
-- Size: 500x360x20(h)mm
+- Size: 500 x 360 x 20(h)mm
 - Weight: 1kg
 - Materials: Paulownia
 
 ### Logo Tape 2018 FES Edition (FES-108)
 
-- Size: ø47x45mm
+- Size: ø47 x 45mm
 - Weight: 40g
 - Materials: Polyethylene
 
@@ -1457,7 +1454,7 @@ toc_label: "Contents"
 ### Connect Tarp Hexa Gray (FES-265)
 
 - Materials: Body: 210D Polyester Oxford, Light-Blocking Pigment PU Coating, Hydrostatic Head 3,000mm min., Teflon Water-Repellent, UV Protection
-- Carry Bag Size: W800xD200xH200mm
+- Carry Bag Size: W800 x D200 x H200mm
 - Weight: 2.8kg
 - Color: Gray
 
@@ -1467,9 +1464,8 @@ toc_label: "Contents"
   - Outer: Polyester Fleece
   - Lining: Sweatshirt Fabric
 - Size:
-  - W570xD1
-  - 400xH5mm
-- Packed Size: W250xD240xH130mm
+  - W570 x D1400 x H5mm
+  - Packed Size: W250 x D240 x H130mm
 - Weight: 342g
 - Color: Khaki
 
@@ -1498,9 +1494,9 @@ toc_label: "Contents"
   - Rubber
   - Glass
   - Stainless Steel
-- Size: 42x40x105(h)mm
+- Size: 42 x 40 x 105(h)mm
 - Weight: 102g
-- Packed Size: 51x47x112(h)mm
+- Packed Size: 51 x 47 x 112(h)mm
 
 ### Triangle Sticker (FES-027)
 
@@ -1563,7 +1559,7 @@ toc_label: "Contents"
 
 ### Triangle Sticker (FES-027)
 
-- Size: 100x82mm
+- Size: 100 x 82mm
 
 ### Low Chair Blanket (FES-126)
 
@@ -1574,8 +1570,8 @@ toc_label: "Contents"
   - Cover Fabric: Polyester High-Loft Fleece
   - Lining: Sweatshirt Fabric
   - Piping Pocket: Jersey
-- Size: 570x1400x5mm
-- Storage Size: 250x240x130mm
+- Size: 570 x 1400 x 5mm
+- Storage Size: 250 x 240 x 130mm
 - Weight: 342g
 
 ### Rainbow Stove 2016 Edition (KH-001BK)
@@ -1583,15 +1579,15 @@ toc_label: "Contents"
 ### IGT Wind Screen Regular (FES-161)
 
 - Materials: Stainless Steel
-- Body Size: 502x412x150mm
-- Storage Size: 502x412x20mm
+- Body Size: 502 x 412 x 150mm
+- Storage Size: 502 x 412 x 20mm
 - Weight: 0.8kg (x2) *for 3 units
 
 ### IGT Wind Screen Long (FES-162)
 
 - Materials: Stainless Steel
-- Body Size: 502x542x150mm
-- Packed Size: 542x150x20mm
+- Body Size: 502 x 542 x 150mm
+- Packed Size: 542 x 150 x 20mm
 - Weight: 0.92kg (x2)
 
 ## 2016 Spring
@@ -1621,7 +1617,7 @@ toc_label: "Contents"
   - Legs, Ears & Tail Parts: Stainless Steel
   - Mosquito Coil Holder: Stainless Steel
   - Cord: Rayon
-- Size: 136x148x165(h)mm
+- Size: 136 x 148 x 165(h)mm
 - Weight: 150g
 
 ### Amenity Tarp Hexa L Set (TP-851S)
@@ -1631,12 +1627,12 @@ toc_label: "Contents"
   - Tarp Body
   - Steel Pole (260cm, 240cm)
   - Steel Stake 30cm (x8)
-  - Stopper Rope (Y-type 10mx2, 3mx2, 2mx2)
+  - Stopper Rope (Y-type 10m x2, 3m x2, 2m x2)
   - Pole Case
   - Stake Case
   - Carry Bag
   - User Guide
-- Carry Bag Size: 80x17x22(h)cm
+- Carry Bag Size: 80 x 17 x 22(h)cm
 - Weight: 7kg
 
 ## 2015 Fall
@@ -1646,11 +1642,11 @@ toc_label: "Contents"
 - Materials: Body: 210D Polyester Oxford, Light-Blocking Pigment PU Coating, Hydrostatic Head 3,000mm min., UV Protection, Teflon Water-Repellent (Initial Water Repellency 100, 90 after 5 washes)
 - Contents:
   - Body
-  - Stopper Rope (Y-type 10mx2, 3mx2, 2mx2)
+  - Stopper Rope (Y-type 10m x2, 3m x2, 2m x2)
   - Pole Case
   - Stake Case
   - Carry Bag
-- Carry Bag Size: 80x17x22(h) cm
+- Carry Bag Size: 80 x 17 x 22(h) cm
 - Weight: 3.6kg (incl. body & rope)
 - Color: Gray x Burgundy
 - Notes: Poles, stakes, hammer, and stake & hammer case are not included.
@@ -1660,7 +1656,7 @@ toc_label: "Contents"
 - Materials: Body: 210D Polyester Oxford, Light-Blocking Pigment PU Coating, Hydrostatic Head 3,000mm min., UV Protection, Teflon Water-Repellent (Initial Water Repellency 100, 90 after 5 washes)
 - Contents:
   - Body
-  - Stopper Rope (10mx2, 3mx8)
+  - Stopper Rope (10m x2, 3m x8)
   - Pole Case
   - Stake Case
   - Carrying Bag
@@ -1697,12 +1693,12 @@ toc_label: "Contents"
 ### Flag Garland (UG-440)
 
 * Materials: 210D Polyester Oxford, Polypropylene (rope), Aluminum Alloy (hardware)
-* Size: Flag 100x150(h)mm, Rope length 2m
+* Size: Flag 100 x 150(h)mm, Rope length 2m
 
 ### IGT Bamboo Tray W (CK-030)
 
 * Materials: Laminated Bamboo
-* Size: 500x360x15(h)mm
+* Size: 500 x 360 x 15(h)mm
 * Weight: 1.7kg
 
 ### Low Chair 30 Classic Red (LV-091RD)
@@ -1713,8 +1709,8 @@ toc_label: "Contents"
   - Armrest: Laminated Bamboo
   - Metal Parts: Stainless Steel
   - Seat: Polyester
-* Size: 58x65x86(h)cm (seat height 30cm)
-* Packed Size: 160x180x101(h)mm
+* Size: 58 x 65 x 86(h)cm (seat height 30cm)
+* Packed Size: 160 x 180 x 101(h)mm
 * Weight: 3.6kg (excl. side pocket)
 
 ### Low Chair 30 Classic Gray (LV-091GY)
@@ -1725,8 +1721,8 @@ toc_label: "Contents"
   - Armrest: Laminated Bamboo
   - Metal Parts: Stainless Steel
   - Seat: Polyester
-* Size: 58x65x86(h)cm (seat height 30cm)
-* Packed Size: 160x180x101(h)mm
+* Size: 58 x 65 x 86(h)cm (seat height 30cm)
+* Packed Size: 160 x 180 x 101(h)mm
 * Weight: 3.6kg (excl. side pocket)
 
 ### Mini Hozuki Luminous Shade (UG-276)
@@ -1738,7 +1734,7 @@ toc_label: "Contents"
 ### Eco Cup Neoprene Case (E-075)
 
 * Materials: Neoprene
-* Size: Φ90x150(h)mm (when not attached)
+* Size: Φ90 x 150(h)mm (when not attached)
 * Weight: 30g
 
 ## 2014 Fall
@@ -1911,7 +1907,7 @@ toc_label: "Contents"
 
 - Set Contents:
   - Tarpaulin Body
-  - Stopper Rope (Y-type 10mx2, 3mx4)
+  - Stopper Rope (Y-type 10m x2, 3m x4)
   - Pole Case
   - Stake Case
   - Carrying Case
@@ -1925,7 +1921,7 @@ toc_label: "Contents"
 
 - Set Contents:
   - Tarpaulin Body
-  - Stopper Rope (Y-type 10mx2, 3mx2)
+  - Stopper Rope (Y-type 10m x2, 3m x2)
   - Pole Case
   - Stake Case
   - Storage Case
@@ -1939,7 +1935,7 @@ toc_label: "Contents"
 
 - Set Contents:
   - Tarpaulin Body
-  - Stopper Y-Type Rope (9mx2, 7mx2)
+  - Stopper Y-Type Rope (9m x2, 7m x2)
   - Stopper Rope (x4)
   - Pole Case
   - Stake Case
@@ -1953,7 +1949,7 @@ toc_label: "Contents"
 ### Peg Hammer Pro. C Chrome (FES-113)
 
 - Materials: Head: Steel (Chrome Plating)
-- Size: Φ35x120x290mm
+- Size: Φ35 x 120 x 290mm
 - Weight: 670g
 
 ### Dog Anchor 50 (FES-114)
@@ -1964,7 +1960,7 @@ toc_label: "Contents"
   - Dog Chain: Iron
   - Carrying Case: No.11 Canvas, Nylon, Faux Leather
 - Body Size (excl. Dog Chain):
-  - 50x7x2cm
+  - 50 x 7 x 2cm
   - Dog Chain Length: 1.6m
 - Weight: 0.9kg (incl. carrying case)
 
@@ -1994,12 +1990,12 @@ toc_label: "Contents"
 
 ### Furoshiki Blackout (FES-152)
 
-- Size: 880x880mm
+- Size: 880 x 880mm
 - Materials: 100% Cotton
 
 ### Furoshiki Whiteout (FES-151)
 
-- Size: 880x880mm
+- Size: 880 x 880mm
 - Materials: 100% Cotton
 
 ### Asterisk Sticker Set Luminous (FES-093)
@@ -2033,7 +2029,7 @@ toc_label: "Contents"
   - Resin Board
   - PP Belt
   - Plastic
-- Size: W540xH160xD180mm
+- Size: W540 x H160 x D180mm
 - Weight: approx. 900g *No related data available for Japan FES
 
 ### Black Multi Container M (FES-077)
@@ -2045,7 +2041,7 @@ toc_label: "Contents"
   - Resin Board
   - PP Belt
   - Plastic
-- Size: W440xH150xD160mm
+- Size: W440 x H150 x D160mm
 - Weight: approx. 700g *No related data available for Japan FES
 
 ### Black Multi Container S (FES-076)
@@ -2057,7 +2053,7 @@ toc_label: "Contents"
   - Resin Board
   - PP Belt
   - Plastic
-- Size: W340xH150xD140mm
+- Size: W340 x H150 x D140mm
 - Weight: approx. 500g *No related data available for Japan FES
 
 ### Black Tote Bag M (FES-065)
@@ -2067,7 +2063,7 @@ toc_label: "Contents"
   - Polyester 1680D
   - Nylon Mesh
   - PP Belt
-- Size: W400xH450xD220mm
+- Size: W400 x H450 x D220mm
 - Weight: approx. 600g *No related data available for Japan FES
 
 ### Black Tote Bag S (FES-064)
@@ -2077,7 +2073,7 @@ toc_label: "Contents"
   - Polyester 1680D
   - Nylon Mesh
   - PP Belt
-- Size: W360xH380xD250mm
+- Size: W360 x H380 x D250mm
 - Weight: approx. 600g *No related data available for Japan FES
 
 ## 2012 Fall
@@ -2123,10 +2119,10 @@ toc_label: "Contents"
 
 ### FES Mark H300 Glossy Titanium (FES-061)
 
-- Size: Φ76x86mm
+- Size: Φ76 x 86mm
 - Capacity: 300ml
 - Materials: Body: Titanium
-- Size: 148x210x6mm (1 volume)
+- Size: 148 x 210 x 6mm (1 volume)
 - Materials:
   - Cover: Cardstock
   - Humming Paper
@@ -2134,7 +2130,7 @@ toc_label: "Contents"
 ### FES A5 Catalog Notebook Set
 
 A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages each for plenty of use.
-* Size: 148x210x6mm (per notebook)
+* Size: 148 x 210 x 6mm (per notebook)
 * Materials: Cover/Cardstock, Humming Paper
 
 ## 2011
@@ -2167,31 +2163,31 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
 
 - Color: RED
 - Materials: 1,680D Polyester
-- Size: W195xD200xH175mm
-- When Stored: W195xD200mm
+- Size: W195 x D200 x H175mm
+- When Stored: W195 x D200mm
 - Weight: 40g
 
 ### 2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Dark Blue (FES-060DB)
 
 - Color: DARK BLUE
 - Materials: 1,680D Polyester
-- Size: W195xD200xH175mm
-- When Stored: W195xD200mm
+- Size: W195 x D200 x H175mm
+- When Stored: W195 x D200mm
 - Weight: 40g
 
 ### 2011 Snow Peak Store Thanksgiving Limited Item Trash Bag Small Beige (FES-060BG)
 
 - Color: BEIGE
 - Materials: 1,680D Polyester
-- Size: W195xD200xH175mm
-- When Stored: W195xD200mm
+- Size: W195 x D200 x H175mm
+- When Stored: W195 x D200mm
 - Weight: 40g
 
 ## 2010
 
 ### Snow Peak Logo Sticker Silver L (FES-034)
 
-- Size: 350x80mm (when attached)
+- Size: 350 x 80mm (when attached)
 
 ### Gear Container Box Orange (FES-032 OR)
 
@@ -2201,12 +2197,12 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
   - Body: Stainless Steel
   - O-Ring: NBR (Nitrile Rubber)
 - Weight: Body: 31g
-- Packed Size: W15xD15xH65mm
+- Packed Size: W15 x D15 x H65mm
 
 ### Light Tarp Ponta L Shield Pro (FES-031)
 
 - Materials: Body: 75D Polyester Ripstop, Light-Blocking Pigment PU Coating, Hydrostatic Head 3,000mm min., UV Protection, Teflon Water-Repellent
-- Size: W330xD255cm Case Size: W150xD350xH100mm
+- Size: W330 x D255cm Case Size: W150 x D350 x H100mm
 
 ### Land Station L Pro (FES-030)
 
@@ -2220,18 +2216,18 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
 
 ### Festival Sticker (FES-026)
 
-- Size: W59xH164mm (when attached)
+- Size: W59 x H164mm (when attached)
 
 ### Wabuki Chopsticks Ebony (FES-020)
 
-- Body Size: 48x214mm (approx. 118mm when stored)
+- Body Size: 48 x 214mm (approx. 118mm when stored)
 - Materials:
   - Handle: Stainless Steel
   - Tip: Aodamo (Urushi Lacquer)
   - Joint, Lid: Brass
   - Rubber
   - Case: Polypropylene
-- Case Size: 38x140mm
+- Case Size: 38 x 140mm
 - Weight:
   - Body: 28g
   - Case: 13g
@@ -2248,13 +2244,15 @@ A set of 3 A5-size notebooks styled after the Snow Peak catalog cover. 160 pages
   - Base: Stainless Steel
   - Globe: Heat-Resistant Glass
   - Candle: Polycarbonate, Paraffin
-- Size: Body: 450xH63mm Cup Candle: 440xH22mm
+- Size:
+  - Body: 450 x H63mm
+  - Cup Candle: 440 x H22mm
 - Weight: 110g (excl. candle)
 
 ### Stainless Spork Black (FES-022)
 
 - Materials: Stainless Steel
-- Size: W40xH165mm
+- Size: W40 x H165mm
 - Weight: 28g
 
 ## 2008
@@ -2293,8 +2291,8 @@ Made from tent fabric; unfolds into a tote bag, and folds inside-out into a smal
   - 210D Polyester (Reverse PU Processing)
   - Polyester Mesh
 - Size:
-  - In use: 340x120x410(h)mm
-  - When stored: 140x170x50mm
+  - In use: 340 x 120 x 410(h)mm
+  - When stored: 140 x 170 x 50mm
 - Weight: approx. 150g
 
 ### Pocketable Duffel Bag (FES-009)
@@ -2302,7 +2300,7 @@ Made from tent fabric; unfolds into a tote bag, and folds inside-out into a smal
 Made from tent fabric; unfolds into a duffel bag, and folds inside-out into a small pocket for compact storage (Beige). Great as an eco bag or everyday bag, from daily life to outdoor use. A must-have for camping and shopping. Shoulder strap included.
 
 - Materials: 210D Polyester Ripstop
-- Size: 300x560x300mm
+- Size: 300 x 560 x 300mm
 - Color: Beige (BG)
 
 ### Tissue Box Case (FES-010)
