@@ -1616,7 +1616,7 @@ toc_label: "Contents"
 - Uses Kerosene
 - Anti-Tipping Auto-Shutoff
 
-### Little Lamp Nocturne 2018 EDITION (GL-140LB)
+### Mini Flame 2018 EDITION (GL-140LB)
 
 * Contents: Body, User Guide
 * Features: 2018 limited production. The black globe features an engraved "constellation" pattern.
