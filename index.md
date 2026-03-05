@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: single
 title: Snow Peak Festival Products
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
-
-* TOC
-{:toc}
 
 ## Snow Peak Festival Products
 
