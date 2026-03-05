@@ -9,6 +9,8 @@ toc_label: "Contents"
 
 ### Cornhole Table (FES-095)
 
+![Cornhole Table](assets/images/FES-095.png)
+
 - Size: 500 x 300 x 115(h)mm
 - Weight: 2kg
 - Storage Size: 500 x 150 x 65(H)mm
