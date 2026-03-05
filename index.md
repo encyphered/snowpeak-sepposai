@@ -1467,6 +1467,8 @@ toc_label: "Contents"
 
 ### Mini Flame 2019 Edition (GL-140CL)
 
+![Mini Flame 2019 Edition](assets/images/GL-140CL.png)
+
 - Size: 42 x 40 x 105(h)mm
 - Weight: 102g
 - Materials:
@@ -1477,6 +1479,8 @@ toc_label: "Contents"
   - Stainless Steel
 
 ### Rainbow Stove Black Set (KH-003BK-SET)
+
+![Rainbow Stove Black Set](assets/images/KH-003BK-SET.png)
 
 * Size: 388 x 388 x 485.7mm
 * Weight: 6.2kg
@@ -1615,6 +1619,8 @@ toc_label: "Contents"
 
 ### Rainbow Stove 2018 Edition (KH-001LB)
 
+![Rainbow Stove 2018 Edition](assets/images/KH-001LB.png)
+
 - Size: 388 x 388 x 485.7mm
 - Weight: approx. 6.2kg
 - Heating Output: 2.5kW
@@ -1627,6 +1633,8 @@ toc_label: "Contents"
 - Anti-Tipping Auto-Shutoff
 
 ### Mini Flame 2018 EDITION (GL-140LB)
+
+![Mini Flame 2018 EDITION](assets/images/GL-140LB.png)
 
 * Contents: Body, User Guide
 * Features: 2018 limited production. The black globe features an engraved "constellation" pattern.
@@ -1715,6 +1723,8 @@ toc_label: "Contents"
 - Safety Device: Anti-Tipping Auto-Shutoff (Wick Lowering Method) ※ Snow Peak Rainbow Stove case is sold separately.
 
 ### Mini Flame 2017 Edition (GL-140NK)
+
+![Mini Flame 2017 Edition](assets/images/GL-140NK.png)
 
 - Contents:
   - Body
@@ -1822,6 +1832,8 @@ toc_label: "Contents"
 - Weight: 342g
 
 ### Rainbow Stove 2016 Edition (KH-001BK)
+
+![Rainbow Stove 2016 Edition](assets/images/KH-001BK.png)
 
 ### IGT Wind Screen Regular (FES-161)
 
@@ -2284,6 +2296,8 @@ toc_label: "Contents"
 ## 2013 Spring
 
 ### Solid State Lantern Mini Hozuki Black (ES-040BK)
+
+![Solid State Lantern Mini Hozuki Black](assets/images/ES-040BK.png)
 
 * Contents: Mini Hozuki Body (x1), Test Alkaline Battery (x3)
 * Materials: ABS Resin, Silicone
