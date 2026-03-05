@@ -115,6 +115,8 @@ toc_label: "Contents"
 
 ### Mosquito Coil Pig Mini Red (FES-087-1-RD)
 
+![Mosquito Coil Pig Mini Red](assets/images/FES-087-1-RD.png)
+
 - Size: 95 x 96 x 107(h)mm
 - Weight: 75g
 - Materials:
@@ -124,6 +126,8 @@ toc_label: "Contents"
   - Hanging Strap: Cotton
 
 ### Mosquito Coil Pig Mini Black (FES-087-1-BK)
+
+![Mosquito Coil Pig Mini Black](assets/images/FES-087-1-BK.png)
 
 - Size: 95 x 96 x 107(h)mm
 - Weight: 75g
@@ -137,17 +141,23 @@ toc_label: "Contents"
 
 ### Stainless 1-Unit Tray Black (FES-085-BK)
 
+![Stainless 1-Unit Tray Black](assets/images/FES-085-BK.png)
+
 - Materials: Stainless Steel (heat-resistant coating)
 - Size: 250 x 360 x 15(h)mm
 - Weight: 635g
 
 ### Stainless Lid Tray Half Black (FES-086-BK)
 
+![Stainless Lid Tray Half Black](assets/images/FES-086-BK.png)
+
 - Materials: Stainless Steel (heat-resistant coating)
 - Size: 1250 x 360 x 15(h)mm
 - Weight: 335g
 
 ### Snow Peak Land Lock Side Tarp Ivory (FES-270-IV)
+
+![Snow Peak Land Lock Side Tarp Ivory](assets/images/FES-270-IV.png)
 
 - Contents:
   - Tarp Body
@@ -246,6 +256,8 @@ toc_label: "Contents"
 
 ### Thermo Tumbler 360 Duo Set (FES-360-1)
 
+![Thermo Tumbler 360 Duo Set](assets/images/FES-360-1.png)
+
 - Size: ø84 x 112mm
 - Weight: 150g (per body unit)
 - Set Contents:
@@ -326,6 +338,8 @@ toc_label: "Contents"
 
 ### Shelf Container 50 Olive (FES-038-OL)
 
+![Shelf Container 50 Olive](assets/images/FES-038-OL.png)
+
 - Size: 625 x 405 x 270(h)mm
 - Weight: 5.5kg
 - Set Contents:
@@ -338,6 +352,8 @@ toc_label: "Contents"
 - Internal Dimensions: 500 x 370 x 255(h)mm / 19.7 x 14.5 x 10(h)in
 
 ### Shelf Container 25 Olive (FES-037-OL)
+
+![Shelf Container 25 Olive](assets/images/FES-037-OL.png)
 
 - Size: 520 x 325 x 210(h)mm
 - Weight: 3.6kg
@@ -353,6 +369,8 @@ toc_label: "Contents"
 ## 2023 Fall
 
 ### Compact Ofuton 700 (FES-105-2)
+
+![Compact Ofuton 700](assets/images/FES-105-2.png)
 
 - Contents:
   - Body
@@ -371,6 +389,8 @@ toc_label: "Contents"
   - Lower Limit Temp: -5°C
 
 ### SS Single Plus Power (FES-105-3)
+
+![SS Single Plus Power](assets/images/FES-105-3.png)
 
 - Contents:
   - Body
@@ -544,12 +564,16 @@ toc_label: "Contents"
 
 ### Shelf Container 50 Black (FES-038-BK)
 
+![Shelf Container 50 Black](assets/images/FES-038-BK.png)
+
 - Materials:
   - Body: Steel
   - Handle: Laminated Bamboo, Stainless Steel
   - Leg: Polycarbonate
 
 ### Shelf Container 25 Black (FES-037-BK)
+
+![Shelf Container 25 Black](assets/images/FES-037-BK.png)
 
 - Materials:
   - Body: Steel
@@ -588,6 +612,8 @@ toc_label: "Contents"
 - Weight: 7.3kg
 
 ### Mosquito Coil Pig Red (FES-087-RD)
+
+![Mosquito Coil Pig Red](assets/images/FES-087-RD.png)
 
 - Contents:
   - Body
@@ -706,6 +732,8 @@ toc_label: "Contents"
 
 ### Mini Hozuki Sukio (FES-441-NV)
 
+![Mini Hozuki Sukio](assets/images/FES-441-NV.png)
+
 - Materials:
   - Body: Polycarbonate Resin, ABS Resin
   - Shade: Silicone Rubber
@@ -721,6 +749,8 @@ toc_label: "Contents"
 - Weight: 57g (excl. battery)
 
 ### Mini Hozuki Tanebi (FES-441-OR)
+
+![Mini Hozuki Tanebi](assets/images/FES-441-OR.png)
 
 - Materials:
   - Body: Polycarbonate Resin, ABS Resin
@@ -812,12 +842,16 @@ toc_label: "Contents"
 
 ### Titanium Straw Set Blue & Green (FES-222-1)
 
+![Titanium Straw Set Blue & Green](assets/images/FES-222-1.png)
+
 - Size: Φ6.4 x 230mm
 - Weight: 22g (11g each)
 - Contents: Straw Body x2 (Blue & Green)
 - Materials: Titanium
 
 ### Titanium Straw Set Pink & Purple (FES-222-2)
+
+![Titanium Straw Set Pink & Purple](assets/images/FES-222-2.png)
 
 - Size: Φ6.4 x 230mm
 - Weight: 22g (11g each)
