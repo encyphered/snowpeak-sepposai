@@ -953,6 +953,8 @@ toc_label: "Contents"
 
 ### One Action Table Long Bamboo Black (FES-139)
 
+![One Action Table Long Bamboo Black](assets/images/FES-139.png)
+
 * Size: 720 x 1215 x 660(h)mm
 * Weight: 13kg
 * Packed Size: 360 x 1,215 x 90mm
@@ -1001,6 +1003,8 @@ toc_label: "Contents"
 
 ### Mini Hozuki Black (FES-441-BK)
 
+![Mini Hozuki Black](assets/images/FES-441-BK.png)
+
 - Size: Φ62 x 75mm
 - Weight: 57g (excl. battery)
 - Materials:
@@ -1018,6 +1022,8 @@ toc_label: "Contents"
 - Lighting Mode: 3 modes (Hi/Low/Strobe/Flickering) + Stepless Dimming
 
 ### Mini Hozuki Khaki (FES-441-KH)
+
+![Mini Hozuki Khaki](assets/images/FES-441-KH.png)
 
 - Size: Φ62 x 75mm
 - Weight: 57g (excl. battery)
@@ -1374,6 +1380,8 @@ toc_label: "Contents"
 
 ### Firepit L Complete Case (FES-032BK)
 
+![Firepit L Complete Case](assets/images/FES-032BK.png)
+
 - Materials:
   - Cotton Canvas (No. 6 Paraffin, PU Processing)
   - Acrylic Tape (core: PP)
@@ -1679,6 +1687,8 @@ toc_label: "Contents"
 
 ### Low Chair Blanket Khaki (FES-126KH)
 
+![Low Chair Blanket Khaki](assets/images/FES-126KH.png)
+
 - Materials:
   - Outer: Polyester Fleece
   - Lining: Sweatshirt Fabric
@@ -1762,6 +1772,8 @@ toc_label: "Contents"
 - Origin: China
 
 ### Mosquito Coil Pig Black Edition (FES-087BK)
+
+![Mosquito Coil Pig Black Edition](assets/images/FES-087BK.png)
 
 - Materials:
   - Body: Aluminum
@@ -1857,6 +1869,8 @@ toc_label: "Contents"
 
 ### Amenity Tarp Hexa L Set (TP-851S)
 
+![Amenity Tarp Hexa L Set](assets/images/TP-851S.png)
+
 - Materials: 210D Polyester Oxford, PU Coating, Hydrostatic Head 1,800mm min., Teflon Water-Repellent, UV Protection
 - Contents:
   - Tarp Body
@@ -1924,6 +1938,8 @@ toc_label: "Contents"
 
 ### Goro (CS-012)
 
+![Goro](assets/images/CS-012.png)
+
 * Size: 30 x 30 x 30mm
 * Weight: approx. 120g (per piece)
 * Materials: Cast Iron
@@ -1938,11 +1954,15 @@ toc_label: "Contents"
 
 ### IGT Bamboo Tray W (CK-030)
 
+![IGT Bamboo Tray W](assets/images/CK-030.png)
+
 * Materials: Laminated Bamboo
 * Size: 500 x 360 x 15(h)mm
 * Weight: 1.7kg
 
 ### Low Chair 30 Classic Red (LV-091RD)
+
+![Low Chair 30 Classic Red](assets/images/LV-091RD.png)
 
 * Contents: Body x1, Carrying Case x1, Side Pocket x2
 * Materials:
@@ -1956,6 +1976,8 @@ toc_label: "Contents"
 
 ### Low Chair 30 Classic Gray (LV-091GY)
 
+![Low Chair 30 Classic Gray](assets/images/LV-091GY.png)
+
 * Contents: Body x1, Carrying Case x1, Side Pocket x2
 * Materials:
   - Frame: Aluminum Alloy
@@ -1968,11 +1990,15 @@ toc_label: "Contents"
 
 ### Mini Hozuki Luminous Shade (UG-276)
 
+![Mini Hozuki Luminous Shade](assets/images/UG-276.png)
+
 * Materials: Silicone
 * Size: Φ62 x 30mm
 * Weight: 12g
 
 ### Eco Cup Neoprene Case (E-075)
+
+![Eco Cup Neoprene Case](assets/images/E-075.png)
 
 * Materials: Neoprene
 * Size: Φ90 x 150(h)mm (when not attached)
@@ -1981,6 +2007,8 @@ toc_label: "Contents"
 ## 2014 Fall
 
 ### Shell Inner DUO (TP-530IR)
+
+![Shell Inner DUO](assets/images/TP-530IR.png)
 
 * Contents:
   - Inner Tent Body
@@ -2028,6 +2056,8 @@ toc_label: "Contents"
 
 ### Hozuki Luminous Shade (UG-275)
 
+![Hozuki Luminous Shade](assets/images/UG-275.png)
+
 - Materials: Silicone Rubber
 
 ### IGT Tissue Hanger Set (FES-006)
@@ -2047,6 +2077,8 @@ toc_label: "Contents"
 - Load Capacity: 10kg (when set on IGT frame)
 
 ### Asterisk Cookie Cutter (UG-050)
+
+![Asterisk Cookie Cutter](assets/images/UG-050.png)
 
 - Materials:
   - Body: Stainless Steel
