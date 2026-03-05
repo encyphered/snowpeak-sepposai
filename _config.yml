@@ -1,4 +1,6 @@
 title: "Snow Peak Festival Products"
+baseurl: "/snowpeak-sepposai"
+url: "https://encyphered.github.io"
 markdown: kramdown
 kramdown:
   toc_levels: 1..3
