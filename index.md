@@ -1,3 +1,11 @@
+---
+layout: default
+title: Snow Peak Festival Products
+---
+
+* TOC
+{:toc}
+
 ## Snow Peak Festival Products
 
 ## 2025 Fall
