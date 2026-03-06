@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "Contents"
 ---
 
-_This page provides a list of Snow Peak’se Festival limited-edition products and is an English translation based on a document written by @jung.sang.1 on IG, who is a a Snow Peak community leader in Korea._
+_This page provides a list of Snow Peak’se Festival limited-edition products and is an English translation based on a document written by [@jung.sang.1](https://www.instagram.com/jung.sang.1) on IG, who is a a Snow Peak community leader in Korea._
 
 ## 2025 Fall
 
