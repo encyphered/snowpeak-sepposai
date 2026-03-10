@@ -2761,7 +2761,7 @@ Tissue case for box tissues, made of beige canvas. Fits standard slim-type box t
 
 ### PTC(Pasta/Tea/Coffee) Measure Set
 
-![PTC Measure Set](assets/images/95-Fair-Sierra-Cup-Holder.jpg)
+![PTC Measure Set](assets/images/95-Fair-PTC-Measure-Set.jpg)
 
 ### Rice Measure
 
