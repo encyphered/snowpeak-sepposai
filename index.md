@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "Contents"
 ---
 
-_This page provides a list of Snow Peak’s Festival limited-edition products and is an English translation based on a document written by [@jung.sang.1](https://instagram.com/jung.sang.1) on IG, who is a a Snow Peak community leader in Korea. In addition to his work, I've added a few missing items from the 2006 and 1995 Spring Fair, based on onfirmation contributed by [Nate](https://korogi.co/) and [Gabe](https://www.instagram.com/wanderinsnow)._
+_This page provides a list of Snow Peak’s Festival limited-edition products and is an English translation based on a document written by [@jung.sang.1](https://instagram.com/jung.sang.1) on IG, who is a a Snow Peak community leader in Korea. In addition to his work, I've added a few missing items from the 2006 and 1995 Spring Fair, based on information contributed by [Nate](https://korogi.co/) and [Gabe](https://www.instagram.com/wanderinsnow)._
 
 _If you have any contribution for missing items or error, contact me via [@encyphered](https://instagram.com/encyphered) on IG._
 
