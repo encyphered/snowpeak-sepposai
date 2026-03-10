@@ -2740,3 +2740,33 @@ Made from tent fabric; unfolds into a duffel bag, and folds inside-out into a sm
 ![Tissue Box Case](assets/images/FES-010.png)
 
 Tissue case for box tissues, made of beige canvas. Fits standard slim-type box tissues commonly found in Japan.
+
+## 2006
+
+### Coaster (FES-004)
+
+![Coaster](assets/images/FES-004.jpg)
+
+### Cellphone Stand (FES-003)
+
+![Cellphone Stand](assets/images/FES-003.jpg)
+
+### Blanket (FES-002)
+
+## 1995 Spring Fair
+
+### Sierra Cup Holder
+
+![Sierra Cup Holder](assets/images/95-Fair-Sierra-Cup-Holder.jpg)
+
+### PTC(Pasta/Tea/Coffee) Measure Set
+
+![PTC Measure Set](assets/images/95-Fair-Sierra-Cup-Holder.jpg)
+
+### Rice Measure
+
+![Rise Measure](assets/images/95-Fair-Rice-Measure.jpg)
+
+### Seppou Field Sake Set
+
+![Seppou Field Sake Set](assets/images/95-Fair-Field-Sake-Set.jpg)
