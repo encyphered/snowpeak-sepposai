@@ -2753,6 +2753,8 @@ Tissue case for box tissues, made of beige canvas. Fits standard slim-type box t
 
 ### Blanket (FES-002)
 
+![Blanket](assets/images/FES-002.jpg)
+
 ## 1995 Spring Fair
 
 ### Sierra Cup Holder
