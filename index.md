@@ -67,10 +67,10 @@ _If you have any contribution for missing items or error, contact me via [@encyp
 * Size: 395x285x310(h)mm / 15.5"x11.2"x12.2"(h)
 * Weight: 820g / 28.9oz
 * Material:
-  - Body: 420D Nvlon (PVC)
+  - Body: 420D Nylon (PVC)
   - Handle: PP tape
-  - Drawstrina Closure: Nvlon Mesh
-  - Base Insert: Polvethvlene
+  - Drawstring Closure: Nylon Mesh
+  - Base Insert: Polyethylene
 
 ### Gear Container Green (FES-366-GR)
 
